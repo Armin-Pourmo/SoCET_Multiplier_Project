@@ -1,0 +1,18 @@
+# KiCad cache/temp files
+*.kicad_prl
+*.autosave
+*.tmp
+*.bak
+
+# Lock files
+*.lck
+
+# Plot / manufacturing outputs
+*.gbr
+*.drl
+*.zip
+*.step
+
+# OS junk
+.DS_Store
+Thumbs.db
