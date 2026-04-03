@@ -928,6 +928,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 66.04) (xy 41.91 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18946887-b201-4183-a86f-1998da1496e3")
+	)
+	(wire
+		(pts
 			(xy 22.86 33.02) (xy 22.86 34.29)
 		)
 		(stroke
@@ -1409,7 +1419,7 @@
 	)
 	(hierarchical_label "B04"
 		(shape output)
-		(at 151.13 72.39 90)
+		(at 87.63 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1464,7 +1474,7 @@
 	)
 	(hierarchical_label "B08"
 		(shape output)
-		(at 163.83 72.39 90)
+		(at 158.75 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1495,6 +1505,17 @@
 		)
 		(uuid "4f528c17-5cb4-4756-b4c7-2b35db389413")
 	)
+	(hierarchical_label "R00"
+		(shape input)
+		(at 31.75 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ffbb30b-0e9e-4e61-94f3-51a421151a49")
+	)
 	(hierarchical_label "R02"
 		(shape input)
 		(at 20.32 22.86 90)
@@ -1519,7 +1540,7 @@
 	)
 	(hierarchical_label "B03"
 		(shape output)
-		(at 87.63 72.39 90)
+		(at 85.09 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1541,7 +1562,7 @@
 	)
 	(hierarchical_label "B00"
 		(shape output)
-		(at 80.01 72.39 90)
+		(at 41.91 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1552,7 +1573,7 @@
 	)
 	(hierarchical_label "B02"
 		(shape output)
-		(at 85.09 72.39 90)
+		(at 82.55 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1596,7 +1617,7 @@
 	)
 	(hierarchical_label "B05"
 		(shape output)
-		(at 153.67 72.39 90)
+		(at 151.13 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1607,7 +1628,7 @@
 	)
 	(hierarchical_label "B07"
 		(shape output)
-		(at 158.75 72.39 90)
+		(at 156.21 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1629,7 +1650,7 @@
 	)
 	(hierarchical_label "B01"
 		(shape output)
-		(at 82.55 72.39 90)
+		(at 80.01 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1662,7 +1683,7 @@
 	)
 	(hierarchical_label "B06"
 		(shape output)
-		(at 156.21 72.39 90)
+		(at 153.67 72.39 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1670,6 +1691,17 @@
 			(justify left)
 		)
 		(uuid "f7a50dad-d614-4b9c-9618-c71fa7b1eba3")
+	)
+	(hierarchical_label "B09"
+		(shape output)
+		(at 163.83 72.39 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa4b24aa-cc7a-4c31-998f-0f0a77b97698")
 	)
 	(symbol
 		(lib_id "Device:C")
